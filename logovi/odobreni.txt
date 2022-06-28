@@ -1,0 +1,7 @@
+Odobreni termini
+
+16.06.2022 11:28:56 - Odobren termin za korisnika: Test1, datuma: 2022-06-17, vakcina: 1.
+16.06.2022 11:29:45 - Odobren termin za korisnika: Test2, datuma: 2022-06-24, vakcina: 2.
+27.06.2022 10:24:34 - Odobren termin za korisnika: Test6, datuma: 2022-06-30, vakcina: 6.
+27.06.2022 11:03:19 - Odobren termin za korisnika: Pera Peric, datuma: 2022-07-09, vakcina: 6.
+27.06.2022 11:03:23 - Odobren termin za korisnika: Cane Kurbla, datuma: 2022-06-29, vakcina: 3.
